@@ -4,7 +4,7 @@ Generates and uploads unique short form content based on responses from AI promp
 **This is just a learning project so I'm sure there's a lot to be improved upon, feel free to chime in,
   I'm open to suggestions and criticisms 
 
-**Eventually I intend to have the actaul animation automated as well but I need to find somethinkg akin to Freecad's python console
+**Eventually I intend to have the actual animation automated as well but I need to find something akin to Freecad's python console
   As it stands this project requires you to provide a short video, or a still, to be looped as the background (.wav works well)
 
 The main script first runs the AI generated text section. In my case I used ChatGPT but you could swap out the API for whatevr chatbot you prefer. Find an open ended topic, I chose to ask chatgpt to give me horoscopes while playing subversive roles,save the response text.
